@@ -10,7 +10,7 @@ This Python script provides a simple way to install Python modules using pip.
 
    ```bash
    python install_modules.py requests numpy
-  ```
+   ```
 
 Replace requests and numpy with the names of the modules you want to install.
 
